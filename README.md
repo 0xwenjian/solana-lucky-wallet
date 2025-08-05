@@ -64,3 +64,7 @@ node lucky-wallet.js [前三位字符] [允许的数字字符] [生成数量]
 
 ## License
 MIT
+
+---
+
+推特: [https://x.com/0xwenjian](https://x.com/0xwenjian)
